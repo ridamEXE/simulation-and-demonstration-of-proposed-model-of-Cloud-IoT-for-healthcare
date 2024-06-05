@@ -1,5 +1,5 @@
-<!-- ## Simulation and Demonstration of Proposed Model of Cloud-IoT for Healthcare -->
-## Cloud-Fog-Edge computing for Internet of Health Things
+## Simulation and Demonstration of Proposed Model of Cloud-IoT for Healthcare
+<!-- ## Cloud-Fog-Edge computing for Internet of Health Things -->
 We have reviewed numerous research papers to identify the key areas of study needed in current Cloud-IoT models for improving the healthcare sector. Our research project aims to reduce network usage consumption and latency, thereby achieving a highly performant, fast, and cost-effective model. We have successfully demonstrated the feasibility of this proposed model in a real-life scenario.
 
 > **Target audience:** Researchers and developers working on Cloud-IoT and healthcare applications.
